@@ -1,4 +1,4 @@
-package Inheritance;
+package DesignPatterns;
 
 public class CoffeeScript implements Programmable
 {
