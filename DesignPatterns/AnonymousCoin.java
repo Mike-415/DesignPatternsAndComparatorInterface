@@ -1,4 +1,4 @@
-package Inheritance;
+package DesignPatterns;
 
 import java.math.BigDecimal;
 
