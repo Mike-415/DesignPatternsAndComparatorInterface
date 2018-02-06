@@ -1,4 +1,4 @@
-package Inheritance;
+package DesignPatterns;
 /*
 Design Patterns and the Comparator interface:
  Locations:
