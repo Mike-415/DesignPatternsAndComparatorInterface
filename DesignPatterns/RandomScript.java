@@ -1,10 +1,7 @@
-package Inheritance;
+package DesignPatterns;
 
 import java.util.Random;
 
-/**
- * Created by Mike-415 on 2/5/18.
- */
 public class RandomScript implements Programmable
 {
     @Override
